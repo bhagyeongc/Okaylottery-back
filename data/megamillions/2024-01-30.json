@@ -1,0 +1,145 @@
+{
+  "game": "megamillions",
+  "drawDate": "2024-01-30",
+  "numbers": [
+    3,
+    5,
+    16,
+    58,
+    59
+  ],
+  "megaBall": 11,
+  "megaplier": 4,
+  "jackpot": {
+    "estimated": 311000000,
+    "cash": 149500000,
+    "strValue": "$311 Million"
+  },
+  "prizeTiers": [
+    {
+      "prize": "Jackpot",
+      "winners": 0,
+      "multiplierWinners": 0,
+      "tier": 0
+    },
+    {
+      "prize": "$1 Million",
+      "winners": 1,
+      "multiplierWinners": 0,
+      "tier": 1
+    },
+    {
+      "prize": "$10,000",
+      "winners": 16,
+      "multiplierWinners": 6,
+      "tier": 2
+    },
+    {
+      "prize": "$500",
+      "winners": 331,
+      "multiplierWinners": 93,
+      "tier": 3
+    },
+    {
+      "prize": "$200",
+      "winners": 989,
+      "multiplierWinners": 265,
+      "tier": 4
+    },
+    {
+      "prize": "$10",
+      "winners": 21589,
+      "multiplierWinners": 5624,
+      "tier": 5
+    },
+    {
+      "prize": "$10",
+      "winners": 21195,
+      "multiplierWinners": 5856,
+      "tier": 6
+    },
+    {
+      "prize": "$4",
+      "winners": 161497,
+      "multiplierWinners": 43634,
+      "tier": 7
+    },
+    {
+      "prize": "$2",
+      "winners": 378388,
+      "multiplierWinners": 100006,
+      "tier": 8
+    }
+  ],
+  "winners": [
+    {
+      "prize": "Jackpot",
+      "winners": 0,
+      "multiplierWinners": 0,
+      "tier": 0
+    },
+    {
+      "prize": "$1 Million",
+      "winners": 1,
+      "multiplierWinners": 0,
+      "tier": 1
+    },
+    {
+      "prize": "$10,000",
+      "winners": 16,
+      "multiplierWinners": 6,
+      "tier": 2
+    },
+    {
+      "prize": "$500",
+      "winners": 331,
+      "multiplierWinners": 93,
+      "tier": 3
+    },
+    {
+      "prize": "$200",
+      "winners": 989,
+      "multiplierWinners": 265,
+      "tier": 4
+    },
+    {
+      "prize": "$10",
+      "winners": 21589,
+      "multiplierWinners": 5624,
+      "tier": 5
+    },
+    {
+      "prize": "$10",
+      "winners": 21195,
+      "multiplierWinners": 5856,
+      "tier": 6
+    },
+    {
+      "prize": "$4",
+      "winners": 161497,
+      "multiplierWinners": 43634,
+      "tier": 7
+    },
+    {
+      "prize": "$2",
+      "winners": 378388,
+      "multiplierWinners": 100006,
+      "tier": 8
+    }
+  ],
+  "winnerLocations": [
+    {
+      "type": "Match 5 + Mega Ball",
+      "description": "Jackpot Winners",
+      "locations": ""
+    },
+    {
+      "type": "Match 5",
+      "description": "$1 Million Winners",
+      "locations": "PA"
+    }
+  ],
+  "videoCode": null,
+  "source": "megamillions.com",
+  "fetchedAt": "2025-12-15T16:27:45.679Z"
+}

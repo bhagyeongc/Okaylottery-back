@@ -1,0 +1,13 @@
+{
+    "name": "okaylottery-back",
+    "version": "1.0.0",
+    "type": "module",
+    "description": "Lottery data collection scripts",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.12",
+        "node-fetch": "^3.3.2"
+    }
+}

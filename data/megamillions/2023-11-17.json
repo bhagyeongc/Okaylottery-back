@@ -1,0 +1,145 @@
+{
+  "game": "megamillions",
+  "drawDate": "2023-11-17",
+  "numbers": [
+    6,
+    12,
+    31,
+    33,
+    69
+  ],
+  "megaBall": 17,
+  "megaplier": 3,
+  "jackpot": {
+    "estimated": 267000000,
+    "cash": 121900000,
+    "strValue": "$267 Million"
+  },
+  "prizeTiers": [
+    {
+      "prize": "Jackpot",
+      "winners": 0,
+      "multiplierWinners": 0,
+      "tier": 0
+    },
+    {
+      "prize": "$1 Million",
+      "winners": 3,
+      "multiplierWinners": 0,
+      "tier": 1
+    },
+    {
+      "prize": "$10,000",
+      "winners": 13,
+      "multiplierWinners": 2,
+      "tier": 2
+    },
+    {
+      "prize": "$500",
+      "winners": 298,
+      "multiplierWinners": 75,
+      "tier": 3
+    },
+    {
+      "prize": "$200",
+      "winners": 765,
+      "multiplierWinners": 227,
+      "tier": 4
+    },
+    {
+      "prize": "$10",
+      "winners": 19152,
+      "multiplierWinners": 5474,
+      "tier": 5
+    },
+    {
+      "prize": "$10",
+      "winners": 16310,
+      "multiplierWinners": 4711,
+      "tier": 6
+    },
+    {
+      "prize": "$4",
+      "winners": 123212,
+      "multiplierWinners": 35096,
+      "tier": 7
+    },
+    {
+      "prize": "$2",
+      "winners": 289815,
+      "multiplierWinners": 82384,
+      "tier": 8
+    }
+  ],
+  "winners": [
+    {
+      "prize": "Jackpot",
+      "winners": 0,
+      "multiplierWinners": 0,
+      "tier": 0
+    },
+    {
+      "prize": "$1 Million",
+      "winners": 3,
+      "multiplierWinners": 0,
+      "tier": 1
+    },
+    {
+      "prize": "$10,000",
+      "winners": 13,
+      "multiplierWinners": 2,
+      "tier": 2
+    },
+    {
+      "prize": "$500",
+      "winners": 298,
+      "multiplierWinners": 75,
+      "tier": 3
+    },
+    {
+      "prize": "$200",
+      "winners": 765,
+      "multiplierWinners": 227,
+      "tier": 4
+    },
+    {
+      "prize": "$10",
+      "winners": 19152,
+      "multiplierWinners": 5474,
+      "tier": 5
+    },
+    {
+      "prize": "$10",
+      "winners": 16310,
+      "multiplierWinners": 4711,
+      "tier": 6
+    },
+    {
+      "prize": "$4",
+      "winners": 123212,
+      "multiplierWinners": 35096,
+      "tier": 7
+    },
+    {
+      "prize": "$2",
+      "winners": 289815,
+      "multiplierWinners": 82384,
+      "tier": 8
+    }
+  ],
+  "winnerLocations": [
+    {
+      "type": "Match 5 + Mega Ball",
+      "description": "Jackpot Winners",
+      "locations": ""
+    },
+    {
+      "type": "Match 5",
+      "description": "$1 Million Winners",
+      "locations": "NC, NY, SC"
+    }
+  ],
+  "videoCode": null,
+  "source": "megamillions.com",
+  "fetchedAt": "2025-12-15T16:27:56.464Z"
+}

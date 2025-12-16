@@ -1,0 +1,158 @@
+{
+  "game": "powerball",
+  "drawDate": "2023-04-01",
+  "numbers": [
+    11,
+    19,
+    21,
+    29,
+    52
+  ],
+  "powerBall": 17,
+  "powerPlay": 4,
+  "jackpot": {
+    "estimated": 150000000,
+    "cash": 79800000,
+    "winners": 0
+  },
+  "prizeTiers": [
+    {
+      "tier": 0,
+      "matchWhite": 5,
+      "matchSpecial": true,
+      "isJackpot": true,
+      "winners": {
+        "base": 0,
+        "multiplier": 0
+      },
+      "prize": {
+        "base": "JACKPOT",
+        "multiplier": 0
+      },
+      "odds": 292201338
+    },
+    {
+      "tier": 1,
+      "matchWhite": 5,
+      "matchSpecial": false,
+      "isJackpot": false,
+      "winners": {
+        "base": 0,
+        "multiplier": 0
+      },
+      "prize": {
+        "base": 1000000,
+        "multiplier": 2000000
+      },
+      "odds": 11688054
+    },
+    {
+      "tier": 2,
+      "matchWhite": 4,
+      "matchSpecial": true,
+      "isJackpot": false,
+      "winners": {
+        "base": 21,
+        "multiplier": 1
+      },
+      "prize": {
+        "base": 50000,
+        "multiplier": 200000
+      },
+      "odds": 913129
+    },
+    {
+      "tier": 3,
+      "matchWhite": 4,
+      "matchSpecial": false,
+      "isJackpot": false,
+      "winners": {
+        "base": 384,
+        "multiplier": 131
+      },
+      "prize": {
+        "base": 100,
+        "multiplier": 400
+      },
+      "odds": 36525
+    },
+    {
+      "tier": 4,
+      "matchWhite": 3,
+      "matchSpecial": true,
+      "isJackpot": false,
+      "winners": {
+        "base": 806,
+        "multiplier": 314
+      },
+      "prize": {
+        "base": 100,
+        "multiplier": 400
+      },
+      "odds": 14494
+    },
+    {
+      "tier": 5,
+      "matchWhite": 3,
+      "matchSpecial": false,
+      "isJackpot": false,
+      "winners": {
+        "base": 21904,
+        "multiplier": 7993
+      },
+      "prize": {
+        "base": 7,
+        "multiplier": 28
+      },
+      "odds": 579
+    },
+    {
+      "tier": 6,
+      "matchWhite": 2,
+      "matchSpecial": true,
+      "isJackpot": false,
+      "winners": {
+        "base": 16293,
+        "multiplier": 5920
+      },
+      "prize": {
+        "base": 7,
+        "multiplier": 28
+      },
+      "odds": 701
+    },
+    {
+      "tier": 7,
+      "matchWhite": 1,
+      "matchSpecial": true,
+      "isJackpot": false,
+      "winners": {
+        "base": 114600,
+        "multiplier": 39715
+      },
+      "prize": {
+        "base": 4,
+        "multiplier": 16
+      },
+      "odds": 92
+    },
+    {
+      "tier": 8,
+      "matchWhite": 0,
+      "matchSpecial": true,
+      "isJackpot": false,
+      "winners": {
+        "base": 259800,
+        "multiplier": 88308
+      },
+      "prize": {
+        "base": 4,
+        "multiplier": 16
+      },
+      "odds": 38
+    }
+  ],
+  "videoCode": "k6aXTNtEFls",
+  "source": "powerball.com",
+  "fetchedAt": "2025-12-15T15:30:03.892Z"
+}

@@ -1,0 +1,140 @@
+{
+  "game": "megamillions",
+  "drawDate": "2025-02-07",
+  "numbers": [
+    4,
+    24,
+    32,
+    41,
+    55
+  ],
+  "megaBall": 16,
+  "megaplier": 2,
+  "jackpot": {
+    "estimated": 94000000,
+    "cash": 42900000,
+    "strValue": "$94 Million"
+  },
+  "prizeTiers": [
+    {
+      "prize": "Jackpot",
+      "winners": 0,
+      "multiplierWinners": 0,
+      "tier": 0
+    },
+    {
+      "prize": "$1 Million",
+      "winners": 1,
+      "multiplierWinners": 0,
+      "tier": 1
+    },
+    {
+      "prize": "$10,000",
+      "winners": 8,
+      "multiplierWinners": 3,
+      "tier": 2
+    },
+    {
+      "prize": "$500",
+      "winners": 192,
+      "multiplierWinners": 53,
+      "tier": 3
+    },
+    {
+      "prize": "$200",
+      "winners": 450,
+      "multiplierWinners": 127,
+      "tier": 4
+    },
+    {
+      "prize": "$10",
+      "winners": 12688,
+      "multiplierWinners": 3861,
+      "tier": 5
+    },
+    {
+      "prize": "$10",
+      "winners": 10078,
+      "multiplierWinners": 3132,
+      "tier": 6
+    },
+    {
+      "prize": "$4",
+      "winners": 79572,
+      "multiplierWinners": 24629,
+      "tier": 7
+    },
+    {
+      "prize": "$2",
+      "winners": 191390,
+      "multiplierWinners": 59295,
+      "tier": 8
+    }
+  ],
+  "winners": [
+    {
+      "prize": "Jackpot",
+      "winners": 0,
+      "multiplierWinners": 0,
+      "tier": 0
+    },
+    {
+      "prize": "$1 Million",
+      "winners": 1,
+      "multiplierWinners": 0,
+      "tier": 1
+    },
+    {
+      "prize": "$10,000",
+      "winners": 8,
+      "multiplierWinners": 3,
+      "tier": 2
+    },
+    {
+      "prize": "$500",
+      "winners": 192,
+      "multiplierWinners": 53,
+      "tier": 3
+    },
+    {
+      "prize": "$200",
+      "winners": 450,
+      "multiplierWinners": 127,
+      "tier": 4
+    },
+    {
+      "prize": "$10",
+      "winners": 12688,
+      "multiplierWinners": 3861,
+      "tier": 5
+    },
+    {
+      "prize": "$10",
+      "winners": 10078,
+      "multiplierWinners": 3132,
+      "tier": 6
+    },
+    {
+      "prize": "$4",
+      "winners": 79572,
+      "multiplierWinners": 24629,
+      "tier": 7
+    },
+    {
+      "prize": "$2",
+      "winners": 191390,
+      "multiplierWinners": 59295,
+      "tier": 8
+    }
+  ],
+  "winnerLocations": [
+    {
+      "type": "Match 5 + Mega Ball",
+      "description": "Jackpot Winners",
+      "locations": ""
+    }
+  ],
+  "videoCode": null,
+  "source": "megamillions.com",
+  "fetchedAt": "2025-12-15T16:26:52.631Z"
+}

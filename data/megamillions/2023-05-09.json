@@ -1,0 +1,145 @@
+{
+  "game": "megamillions",
+  "drawDate": "2023-05-09",
+  "numbers": [
+    4,
+    37,
+    46,
+    48,
+    51
+  ],
+  "megaBall": 19,
+  "megaplier": 3,
+  "jackpot": {
+    "estimated": 83000000,
+    "cash": 43700000,
+    "strValue": "$83 Million"
+  },
+  "prizeTiers": [
+    {
+      "prize": "Jackpot",
+      "winners": 0,
+      "multiplierWinners": 0,
+      "tier": 0
+    },
+    {
+      "prize": "$1 Million",
+      "winners": 1,
+      "multiplierWinners": 0,
+      "tier": 1
+    },
+    {
+      "prize": "$10,000",
+      "winners": 7,
+      "multiplierWinners": 0,
+      "tier": 2
+    },
+    {
+      "prize": "$500",
+      "winners": 172,
+      "multiplierWinners": 40,
+      "tier": 3
+    },
+    {
+      "prize": "$200",
+      "winners": 467,
+      "multiplierWinners": 131,
+      "tier": 4
+    },
+    {
+      "prize": "$10",
+      "winners": 12035,
+      "multiplierWinners": 3439,
+      "tier": 5
+    },
+    {
+      "prize": "$10",
+      "winners": 10437,
+      "multiplierWinners": 2900,
+      "tier": 6
+    },
+    {
+      "prize": "$4",
+      "winners": 83007,
+      "multiplierWinners": 23185,
+      "tier": 7
+    },
+    {
+      "prize": "$2",
+      "winners": 203635,
+      "multiplierWinners": 58133,
+      "tier": 8
+    }
+  ],
+  "winners": [
+    {
+      "prize": "Jackpot",
+      "winners": 0,
+      "multiplierWinners": 0,
+      "tier": 0
+    },
+    {
+      "prize": "$1 Million",
+      "winners": 1,
+      "multiplierWinners": 0,
+      "tier": 1
+    },
+    {
+      "prize": "$10,000",
+      "winners": 7,
+      "multiplierWinners": 0,
+      "tier": 2
+    },
+    {
+      "prize": "$500",
+      "winners": 172,
+      "multiplierWinners": 40,
+      "tier": 3
+    },
+    {
+      "prize": "$200",
+      "winners": 467,
+      "multiplierWinners": 131,
+      "tier": 4
+    },
+    {
+      "prize": "$10",
+      "winners": 12035,
+      "multiplierWinners": 3439,
+      "tier": 5
+    },
+    {
+      "prize": "$10",
+      "winners": 10437,
+      "multiplierWinners": 2900,
+      "tier": 6
+    },
+    {
+      "prize": "$4",
+      "winners": 83007,
+      "multiplierWinners": 23185,
+      "tier": 7
+    },
+    {
+      "prize": "$2",
+      "winners": 203635,
+      "multiplierWinners": 58133,
+      "tier": 8
+    }
+  ],
+  "winnerLocations": [
+    {
+      "type": "Match 5 + Mega Ball",
+      "description": "Jackpot Winners",
+      "locations": ""
+    },
+    {
+      "type": "Match 5",
+      "description": "$1 Million Winners",
+      "locations": "TX"
+    }
+  ],
+  "videoCode": null,
+  "source": "megamillions.com",
+  "fetchedAt": "2025-12-15T16:28:24.336Z"
+}
