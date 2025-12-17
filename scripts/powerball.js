@@ -218,8 +218,24 @@ async function run() {
   const today = new Date().toISOString().slice(0, 10);
   
   if (fs.existsSync(path.join(DATA_DIR, `${today}.json`))) {
-    console.log(`Skipping ${today} (already exists)`);
-    return;
+    const existingData = JSON.parse(fs.readFileSync(path.join(DATA_DIR, `${today}.json`), 'utf-8'));
+    // Check if data is "complete".
+    // Heuristic: If total winners across all tiers is 0, it's likely incomplete.
+    let totalWinners = 0;
+    if (existingData.prizeTiers) {
+        totalWinners = existingData.prizeTiers.reduce((sum, t) => {
+            const base = (t.winners && t.winners.base) || 0;
+            const mult = (t.winners && t.winners.multiplier) || 0;
+            return sum + base + mult;
+        }, 0);
+    }
+
+    if (totalWinners > 0) {
+        console.log(`Skipping ${today} (already exists and complete)`);
+        return;
+    } else {
+        console.log(`Re-fetching ${today} (existing data seems incomplete/partial)...`);
+    }
   }
   
   try {

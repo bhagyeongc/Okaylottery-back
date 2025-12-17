@@ -306,11 +306,21 @@ async function run() {
           
           const explicitTicks = draws[0].PlayDateTicks;
 
+
           // Check if file already exists
           const filePath = path.join(DATA_DIR, `${dateStr}.json`);
           if (fs.existsSync(filePath)) {
-              console.log(`Skipping ${dateStr} (already exists)`);
-              return;
+              const existingData = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
+              // Check if data is "complete".
+              // Heuristic: If total winners across all tiers is 0, it's likely incomplete.
+              const totalWinners = existingData.prizeTiers ? existingData.prizeTiers.reduce((sum, t) => sum + (t.winners || 0) + (t.multiplierWinners || 0), 0) : 0;
+              
+              if (totalWinners > 0) {
+                  console.log(`Skipping ${dateStr} (already exists and complete)`);
+                  return;
+              } else {
+                  console.log(`Re-fetching ${dateStr} (existing data seems incomplete/partial)...`);
+              }
           }
 
           console.log("Fetching detailed data for:", dateStr);
