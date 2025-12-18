@@ -21,6 +21,8 @@ jobs:
 
       - run: node scripts/megamillions.js
 
+      - run: node scripts/stats.js megamillions
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions"

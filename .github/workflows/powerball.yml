@@ -21,6 +21,8 @@ jobs:
 
       - run: node scripts/powerball.js
 
+      - run: node scripts/stats.js powerball
+
       - name: Commit & Push
         run: |
           git config user.name "github-actions"

@@ -34,6 +34,17 @@ GitHub Actions를 통해 매일 자동으로 최신 데이터를 수집하며, *
   }
   ```
 
+### 4. 고급 통계 정보 (Advanced Stats)
+SEO 및 심층 분석을 위한 데이터로, 매 회차마다 자동으로 재생성됩니다.
+- **Base Path**: `/data/<game>/stats/`
+- **Files**:
+    - `frequency.json`: 구간별(전체/2년/1년/6개월/100회/10회) 번호 빈도 및 순위
+    - `gaps.json`: 번호별 현재 미출현 기간(Current Gap), 최장 미출현(Max Gap), 출현 임박 지수
+    - `patterns.json`: 홀짝 비율, 고저 비율, 합계 분포 등 회차별 패턴 정보
+    - `pairs.json`: 가장 자주 같이 나온 번호 조합(Best Pairs)
+    - `special.json`: 스페셜볼(파워볼/메가볼) 전용 빈도 및 미출현 정보
+    - `predictions.json`: 통계 기반 추천 번호 (Hot Picks, Due Picks)
+
 ---
 
 ## 📊 데이터 구조 (Schema)
@@ -137,6 +148,8 @@ npm install
 *   **Schedule**: 매일 4:00, 16:00 (UTC) - 한국 시간 오후 1시, 새벽 1시 경 실행
 *   **Workflow**:
     1. 최신 데이터 수집 (`scripts/*.js`)
-    2. 변경 사항이 있는지 확인 (`git diff`)
-    3. 변경 사항이 있을 경우에만 커밋 및 푸시
+    2. 데이터 완전성 검사 (Partial data일 경우 재수집)
+    3. 고급 통계 데이터 자동 생성 (`scripts/stats.js`)
+    4. 변경 사항이 있는지 확인 (`git diff`)
+    5. 변경 사항이 있을 경우에만 커밋 및 푸시
     4. 커밋 메시지에 실제 추첨 날짜 포함 (`Update ... data: 2025-12-16`)
