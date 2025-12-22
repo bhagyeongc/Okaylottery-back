@@ -1,18 +1,18 @@
 {
   "game": "powerball",
-  "drawDate": "2025-12-21",
+  "drawDate": "2025-12-20",
   "numbers": [
-    4,
-    5,
-    28,
-    52,
-    69
+    25,
+    33,
+    53,
+    62,
+    66
   ],
-  "powerBall": 20,
-  "powerPlay": 3,
+  "powerBall": 17,
+  "powerPlay": 4,
   "jackpot": {
-    "estimated": 1430000000,
-    "cash": 659300000,
+    "estimated": 1270000000,
+    "cash": 579700000,
     "winners": 0
   },
   "prizeTiers": [
@@ -37,8 +37,8 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 8,
-        "multiplier": 0
+        "base": 6,
+        "multiplier": 2
       },
       "prize": {
         "base": 1000000,
@@ -52,12 +52,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 112,
-        "multiplier": 22
+        "base": 72,
+        "multiplier": 14
       },
       "prize": {
         "base": 50000,
-        "multiplier": 150000
+        "multiplier": 200000
       },
       "odds": 913129
     },
@@ -67,12 +67,12 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 2533,
-        "multiplier": 589
+        "base": 1687,
+        "multiplier": 365
       },
       "prize": {
         "base": 100,
-        "multiplier": 300
+        "multiplier": 400
       },
       "odds": 36525
     },
@@ -82,12 +82,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 6538,
-        "multiplier": 1728
+        "base": 4295,
+        "multiplier": 1074
       },
       "prize": {
         "base": 100,
-        "multiplier": 300
+        "multiplier": 400
       },
       "odds": 14494
     },
@@ -97,12 +97,12 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 163955,
-        "multiplier": 42320
+        "base": 107110,
+        "multiplier": 26566
       },
       "prize": {
         "base": 7,
-        "multiplier": 21
+        "multiplier": 28
       },
       "odds": 579
     },
@@ -112,12 +112,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 133843,
-        "multiplier": 33357
+        "base": 90918,
+        "multiplier": 22908
       },
       "prize": {
         "base": 7,
-        "multiplier": 21
+        "multiplier": 28
       },
       "odds": 701
     },
@@ -127,12 +127,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 1001529,
-        "multiplier": 251470
+        "base": 707374,
+        "multiplier": 179106
       },
       "prize": {
         "base": 4,
-        "multiplier": 12
+        "multiplier": 16
       },
       "odds": 92
     },
@@ -142,12 +142,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 2361638,
-        "multiplier": 586230
+        "base": 1724484,
+        "multiplier": 439657
       },
       "prize": {
         "base": 4,
-        "multiplier": 12
+        "multiplier": 16
       },
       "odds": 38
     }
@@ -161,15 +161,15 @@
     {
       "title": "Match 5 + Power Play",
       "description": "$2 Million Winners",
-      "locations": "None"
+      "locations": "AZ, MA"
     },
     {
       "title": "Match 5",
       "description": "$1 Million Winners",
-      "locations": "CA, FL, IA, MA, MI (2), NH, OH"
+      "locations": "CT, NY (3), PA, TN"
     }
   ],
-  "videoCode": "csRrQ2V2tnA",
+  "videoCode": "x1ly1EXnSTg",
   "source": "powerball.com",
-  "fetchedAt": "2025-12-21T07:25:54.727Z"
+  "fetchedAt": "2025-12-20T07:24:02.365Z"
 }
