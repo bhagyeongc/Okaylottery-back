@@ -37,9 +37,12 @@ jobs:
           
           
           # Extract the draw date from the staged filename (e.g., data/powerball/2025-12-16.json)
-          DRAW_DATE=$(git diff --name-only --cached | grep -E '[0-9]{4}-[0-9]{2}-[0-9]{2}\.json' | head -n 1 | xargs basename -s .json)
+          # We capture the filename first to avoid xargs basename failing on empty input
+          CHANGED_FILE=$(git diff --name-only --cached | grep -E '[0-9]{4}-[0-9]{2}-[0-9]{2}\.json' | head -n 1)
           
-          if [ -z "$DRAW_DATE" ]; then
+          if [ -n "$CHANGED_FILE" ]; then
+            DRAW_DATE=$(basename "$CHANGED_FILE" .json)
+          else
             DRAW_DATE=$(date +'%Y-%m-%d')
           fi
           
