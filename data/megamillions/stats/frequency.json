@@ -371,7 +371,7 @@
   },
   "2yr": {
     "label": "Recent 2 Years",
-    "totalDraws": 209,
+    "totalDraws": 208,
     "data": [
       {
         "num": 42,
@@ -394,15 +394,15 @@
         "count": 22
       },
       {
-        "num": 58,
-        "count": 22
-      },
-      {
         "num": 10,
         "count": 21
       },
       {
         "num": 19,
+        "count": 21
+      },
+      {
+        "num": 58,
         "count": 21
       },
       {
@@ -482,10 +482,6 @@
         "count": 15
       },
       {
-        "num": 16,
-        "count": 15
-      },
-      {
         "num": 20,
         "count": 15
       },
@@ -518,11 +514,11 @@
         "count": 15
       },
       {
-        "num": 3,
+        "num": 13,
         "count": 14
       },
       {
-        "num": 13,
+        "num": 16,
         "count": 14
       },
       {
@@ -554,11 +550,11 @@
         "count": 13
       },
       {
-        "num": 4,
+        "num": 3,
         "count": 13
       },
       {
-        "num": 5,
+        "num": 4,
         "count": 13
       },
       {
@@ -578,12 +574,12 @@
         "count": 13
       },
       {
-        "num": 59,
+        "num": 62,
         "count": 13
       },
       {
-        "num": 62,
-        "count": 13
+        "num": 5,
+        "count": 12
       },
       {
         "num": 29,
@@ -595,6 +591,10 @@
       },
       {
         "num": 41,
+        "count": 12
+      },
+      {
+        "num": 59,
         "count": 12
       },
       {
@@ -676,15 +676,15 @@
         "count": 22
       },
       {
-        "num": 58,
-        "count": 22
-      },
-      {
         "num": 10,
         "count": 21
       },
       {
         "num": 19,
+        "count": 21
+      },
+      {
+        "num": 58,
         "count": 21
       },
       {
