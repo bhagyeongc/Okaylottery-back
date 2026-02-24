@@ -1,693 +1,693 @@
 {
   "all": {
     "1": {
-      "current": 69,
-      "max": 69,
+      "current": 70,
+      "max": 70,
       "history": [],
       "appearances": 37,
-      "avgInterval": 14.38,
-      "dueScore": 479.9
+      "avgInterval": 14.41,
+      "dueScore": 485.9
     },
     "2": {
-      "current": 21,
+      "current": 22,
       "max": 58,
       "history": [],
       "appearances": 40,
-      "avgInterval": 13.3,
-      "dueScore": 157.9
+      "avgInterval": 13.32,
+      "dueScore": 165.1
     },
     "3": {
-      "current": 19,
+      "current": 20,
       "max": 40,
       "history": [],
       "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 139.3
+      "avgInterval": 13.67,
+      "dueScore": 146.3
     },
     "4": {
-      "current": 47,
-      "max": 47,
+      "current": 48,
+      "max": 48,
       "history": [],
       "appearances": 47,
-      "avgInterval": 11.32,
-      "dueScore": 415.2
+      "avgInterval": 11.34,
+      "dueScore": 423.3
     },
     "5": {
-      "current": 33,
+      "current": 0,
       "max": 61,
       "history": [],
-      "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 241.9
+      "appearances": 40,
+      "avgInterval": 13.32,
+      "dueScore": 0
     },
     "6": {
-      "current": 9,
+      "current": 10,
       "max": 67,
       "history": [],
       "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 66
+      "avgInterval": 13.67,
+      "dueScore": 73.2
     },
     "7": {
-      "current": 77,
+      "current": 78,
       "max": 79,
       "history": [],
       "appearances": 32,
-      "avgInterval": 16.63,
-      "dueScore": 463.2
+      "avgInterval": 16.66,
+      "dueScore": 468.3
     },
     "8": {
-      "current": 19,
+      "current": 20,
       "max": 63,
       "history": [],
       "appearances": 35,
-      "avgInterval": 15.2,
-      "dueScore": 125
+      "avgInterval": 15.23,
+      "dueScore": 131.3
     },
     "9": {
-      "current": 2,
+      "current": 3,
       "max": 81,
       "history": [],
       "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 15.4
+      "avgInterval": 13,
+      "dueScore": 23.1
     },
     "10": {
-      "current": 71,
-      "max": 71,
-      "history": [],
-      "appearances": 23,
-      "avgInterval": 23.13,
-      "dueScore": 307
-    },
-    "11": {
-      "current": 30,
-      "max": 48,
-      "history": [],
-      "appearances": 45,
-      "avgInterval": 11.82,
-      "dueScore": 253.8
-    },
-    "12": {
-      "current": 82,
-      "max": 82,
-      "history": [],
-      "appearances": 42,
-      "avgInterval": 12.67,
-      "dueScore": 647.4
-    },
-    "13": {
-      "current": 73,
-      "max": 73,
-      "history": [],
-      "appearances": 24,
-      "avgInterval": 22.17,
-      "dueScore": 329.3
-    },
-    "14": {
-      "current": 21,
-      "max": 73,
-      "history": [],
-      "appearances": 26,
-      "avgInterval": 20.46,
-      "dueScore": 102.6
-    },
-    "15": {
-      "current": 44,
-      "max": 60,
-      "history": [],
-      "appearances": 33,
-      "avgInterval": 16.12,
-      "dueScore": 272.9
-    },
-    "16": {
-      "current": 5,
-      "max": 41,
-      "history": [],
-      "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 38.5
-    },
-    "17": {
-      "current": 86,
-      "max": 86,
-      "history": [],
-      "appearances": 29,
-      "avgInterval": 18.34,
-      "dueScore": 468.8
-    },
-    "18": {
-      "current": 5,
-      "max": 40,
-      "history": [],
-      "appearances": 42,
-      "avgInterval": 12.67,
-      "dueScore": 39.5
-    },
-    "19": {
-      "current": 5,
-      "max": 62,
-      "history": [],
-      "appearances": 44,
-      "avgInterval": 12.09,
-      "dueScore": 41.4
-    },
-    "20": {
-      "current": 9,
-      "max": 65,
-      "history": [],
-      "appearances": 33,
-      "avgInterval": 16.12,
-      "dueScore": 55.8
-    },
-    "21": {
-      "current": 23,
-      "max": 80,
-      "history": [],
-      "appearances": 51,
-      "avgInterval": 10.43,
-      "dueScore": 220.5
-    },
-    "22": {
-      "current": 12,
-      "max": 62,
-      "history": [],
-      "appearances": 29,
-      "avgInterval": 18.34,
-      "dueScore": 65.4
-    },
-    "23": {
-      "current": 7,
-      "max": 70,
-      "history": [],
-      "appearances": 45,
-      "avgInterval": 11.82,
-      "dueScore": 59.2
-    },
-    "24": {
-      "current": 37,
-      "max": 40,
-      "history": [],
-      "appearances": 49,
-      "avgInterval": 10.86,
-      "dueScore": 340.8
-    },
-    "25": {
-      "current": 14,
-      "max": 50,
-      "history": [],
-      "appearances": 36,
-      "avgInterval": 14.78,
-      "dueScore": 94.7
-    },
-    "26": {
-      "current": 30,
-      "max": 56,
-      "history": [],
-      "appearances": 35,
-      "avgInterval": 15.2,
-      "dueScore": 197.4
-    },
-    "27": {
-      "current": 0,
-      "max": 52,
-      "history": [],
-      "appearances": 55,
-      "avgInterval": 9.67,
-      "dueScore": 0
-    },
-    "28": {
-      "current": 0,
-      "max": 45,
-      "history": [],
-      "appearances": 55,
-      "avgInterval": 9.67,
-      "dueScore": 0
-    },
-    "29": {
-      "current": 16,
-      "max": 52,
-      "history": [],
-      "appearances": 36,
-      "avgInterval": 14.78,
-      "dueScore": 108.3
-    },
-    "30": {
-      "current": 16,
-      "max": 57,
-      "history": [],
-      "appearances": 36,
-      "avgInterval": 14.78,
-      "dueScore": 108.3
-    },
-    "31": {
-      "current": 19,
-      "max": 61,
-      "history": [],
-      "appearances": 46,
-      "avgInterval": 11.57,
-      "dueScore": 164.3
-    },
-    "32": {
       "current": 72,
       "max": 72,
       "history": [],
-      "appearances": 34,
-      "avgInterval": 15.65,
-      "dueScore": 460.2
-    },
-    "33": {
-      "current": 2,
-      "max": 53,
-      "history": [],
-      "appearances": 54,
-      "avgInterval": 9.85,
-      "dueScore": 20.3
-    },
-    "34": {
-      "current": 33,
-      "max": 37,
-      "history": [],
-      "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 241.9
-    },
-    "35": {
-      "current": 23,
-      "max": 58,
-      "history": [],
-      "appearances": 43,
-      "avgInterval": 12.37,
-      "dueScore": 185.9
-    },
-    "36": {
-      "current": 0,
-      "max": 72,
-      "history": [],
-      "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 0
-    },
-    "37": {
-      "current": 16,
-      "max": 57,
-      "history": [],
-      "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 117.3
-    },
-    "38": {
-      "current": 51,
-      "max": 59,
-      "history": [],
-      "appearances": 36,
-      "avgInterval": 14.78,
-      "dueScore": 345.1
-    },
-    "39": {
-      "current": 37,
-      "max": 71,
-      "history": [],
-      "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 271.2
-    },
-    "40": {
-      "current": 9,
-      "max": 61,
-      "history": [],
-      "appearances": 43,
-      "avgInterval": 12.37,
-      "dueScore": 72.7
-    },
-    "41": {
-      "current": 61,
-      "max": 66,
-      "history": [],
       "appearances": 23,
-      "avgInterval": 23.13,
-      "dueScore": 263.7
+      "avgInterval": 23.17,
+      "dueScore": 310.7
     },
-    "42": {
-      "current": 14,
-      "max": 89,
-      "history": [],
-      "appearances": 31,
-      "avgInterval": 17.16,
-      "dueScore": 81.6
-    },
-    "43": {
-      "current": 7,
-      "max": 43,
-      "history": [],
-      "appearances": 47,
-      "avgInterval": 11.32,
-      "dueScore": 61.8
-    },
-    "44": {
-      "current": 73,
-      "max": 73,
-      "history": [],
-      "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 562.6
-    },
-    "45": {
-      "current": 40,
-      "max": 62,
-      "history": [],
-      "appearances": 38,
-      "avgInterval": 14,
-      "dueScore": 285.7
-    },
-    "46": {
-      "current": 23,
-      "max": 66,
-      "history": [],
-      "appearances": 32,
-      "avgInterval": 16.63,
-      "dueScore": 138.3
-    },
-    "47": {
-      "current": 75,
-      "max": 75,
-      "history": [],
-      "appearances": 40,
-      "avgInterval": 13.3,
-      "dueScore": 563.9
-    },
-    "48": {
+    "11": {
       "current": 0,
-      "max": 55,
-      "history": [],
-      "appearances": 36,
-      "avgInterval": 14.78,
-      "dueScore": 0
-    },
-    "49": {
-      "current": 0,
-      "max": 70,
-      "history": [],
-      "appearances": 31,
-      "avgInterval": 17.16,
-      "dueScore": 0
-    },
-    "50": {
-      "current": 81,
-      "max": 81,
-      "history": [],
-      "appearances": 33,
-      "avgInterval": 16.12,
-      "dueScore": 502.4
-    },
-    "51": {
-      "current": 14,
-      "max": 34,
-      "history": [],
-      "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 102.6
-    },
-    "52": {
-      "current": 2,
-      "max": 53,
-      "history": [],
-      "appearances": 46,
-      "avgInterval": 11.57,
-      "dueScore": 17.3
-    },
-    "53": {
-      "current": 30,
-      "max": 30,
-      "history": [],
-      "appearances": 46,
-      "avgInterval": 11.57,
-      "dueScore": 259.4
-    },
-    "54": {
-      "current": 61,
-      "max": 61,
-      "history": [],
-      "appearances": 35,
-      "avgInterval": 15.2,
-      "dueScore": 401.3
-    },
-    "55": {
-      "current": 30,
-      "max": 85,
-      "history": [],
-      "appearances": 30,
-      "avgInterval": 17.73,
-      "dueScore": 169.2
-    },
-    "56": {
-      "current": 5,
-      "max": 82,
-      "history": [],
-      "appearances": 27,
-      "avgInterval": 19.7,
-      "dueScore": 25.4
-    },
-    "57": {
-      "current": 35,
-      "max": 53,
-      "history": [],
-      "appearances": 35,
-      "avgInterval": 15.2,
-      "dueScore": 230.3
-    },
-    "58": {
-      "current": 5,
       "max": 48,
       "history": [],
       "appearances": 46,
-      "avgInterval": 11.57,
-      "dueScore": 43.2
+      "avgInterval": 11.59,
+      "dueScore": 0
+    },
+    "12": {
+      "current": 83,
+      "max": 83,
+      "history": [],
+      "appearances": 42,
+      "avgInterval": 12.69,
+      "dueScore": 654
+    },
+    "13": {
+      "current": 74,
+      "max": 74,
+      "history": [],
+      "appearances": 24,
+      "avgInterval": 22.21,
+      "dueScore": 333.2
+    },
+    "14": {
+      "current": 22,
+      "max": 73,
+      "history": [],
+      "appearances": 26,
+      "avgInterval": 20.5,
+      "dueScore": 107.3
+    },
+    "15": {
+      "current": 45,
+      "max": 60,
+      "history": [],
+      "appearances": 33,
+      "avgInterval": 16.15,
+      "dueScore": 278.6
+    },
+    "16": {
+      "current": 6,
+      "max": 41,
+      "history": [],
+      "appearances": 41,
+      "avgInterval": 13,
+      "dueScore": 46.2
+    },
+    "17": {
+      "current": 87,
+      "max": 87,
+      "history": [],
+      "appearances": 29,
+      "avgInterval": 18.38,
+      "dueScore": 473.4
+    },
+    "18": {
+      "current": 6,
+      "max": 40,
+      "history": [],
+      "appearances": 42,
+      "avgInterval": 12.69,
+      "dueScore": 47.3
+    },
+    "19": {
+      "current": 6,
+      "max": 62,
+      "history": [],
+      "appearances": 44,
+      "avgInterval": 12.11,
+      "dueScore": 49.5
+    },
+    "20": {
+      "current": 10,
+      "max": 65,
+      "history": [],
+      "appearances": 33,
+      "avgInterval": 16.15,
+      "dueScore": 61.9
+    },
+    "21": {
+      "current": 24,
+      "max": 80,
+      "history": [],
+      "appearances": 51,
+      "avgInterval": 10.45,
+      "dueScore": 229.6
+    },
+    "22": {
+      "current": 13,
+      "max": 62,
+      "history": [],
+      "appearances": 29,
+      "avgInterval": 18.38,
+      "dueScore": 70.7
+    },
+    "23": {
+      "current": 0,
+      "max": 70,
+      "history": [],
+      "appearances": 46,
+      "avgInterval": 11.59,
+      "dueScore": 0
+    },
+    "24": {
+      "current": 38,
+      "max": 40,
+      "history": [],
+      "appearances": 49,
+      "avgInterval": 10.88,
+      "dueScore": 349.3
+    },
+    "25": {
+      "current": 15,
+      "max": 50,
+      "history": [],
+      "appearances": 36,
+      "avgInterval": 14.81,
+      "dueScore": 101.3
+    },
+    "26": {
+      "current": 31,
+      "max": 56,
+      "history": [],
+      "appearances": 35,
+      "avgInterval": 15.23,
+      "dueScore": 203.6
+    },
+    "27": {
+      "current": 1,
+      "max": 52,
+      "history": [],
+      "appearances": 55,
+      "avgInterval": 9.69,
+      "dueScore": 10.3
+    },
+    "28": {
+      "current": 1,
+      "max": 45,
+      "history": [],
+      "appearances": 55,
+      "avgInterval": 9.69,
+      "dueScore": 10.3
+    },
+    "29": {
+      "current": 0,
+      "max": 52,
+      "history": [],
+      "appearances": 37,
+      "avgInterval": 14.41,
+      "dueScore": 0
+    },
+    "30": {
+      "current": 17,
+      "max": 57,
+      "history": [],
+      "appearances": 36,
+      "avgInterval": 14.81,
+      "dueScore": 114.8
+    },
+    "31": {
+      "current": 20,
+      "max": 61,
+      "history": [],
+      "appearances": 46,
+      "avgInterval": 11.59,
+      "dueScore": 172.6
+    },
+    "32": {
+      "current": 73,
+      "max": 73,
+      "history": [],
+      "appearances": 34,
+      "avgInterval": 15.68,
+      "dueScore": 465.7
+    },
+    "33": {
+      "current": 3,
+      "max": 53,
+      "history": [],
+      "appearances": 54,
+      "avgInterval": 9.87,
+      "dueScore": 30.4
+    },
+    "34": {
+      "current": 34,
+      "max": 37,
+      "history": [],
+      "appearances": 39,
+      "avgInterval": 13.67,
+      "dueScore": 248.8
+    },
+    "35": {
+      "current": 24,
+      "max": 58,
+      "history": [],
+      "appearances": 43,
+      "avgInterval": 12.4,
+      "dueScore": 193.6
+    },
+    "36": {
+      "current": 1,
+      "max": 72,
+      "history": [],
+      "appearances": 39,
+      "avgInterval": 13.67,
+      "dueScore": 7.3
+    },
+    "37": {
+      "current": 17,
+      "max": 57,
+      "history": [],
+      "appearances": 39,
+      "avgInterval": 13.67,
+      "dueScore": 124.4
+    },
+    "38": {
+      "current": 52,
+      "max": 59,
+      "history": [],
+      "appearances": 36,
+      "avgInterval": 14.81,
+      "dueScore": 351.2
+    },
+    "39": {
+      "current": 38,
+      "max": 71,
+      "history": [],
+      "appearances": 39,
+      "avgInterval": 13.67,
+      "dueScore": 278
+    },
+    "40": {
+      "current": 10,
+      "max": 61,
+      "history": [],
+      "appearances": 43,
+      "avgInterval": 12.4,
+      "dueScore": 80.7
+    },
+    "41": {
+      "current": 62,
+      "max": 66,
+      "history": [],
+      "appearances": 23,
+      "avgInterval": 23.17,
+      "dueScore": 267.5
+    },
+    "42": {
+      "current": 15,
+      "max": 89,
+      "history": [],
+      "appearances": 31,
+      "avgInterval": 17.19,
+      "dueScore": 87.2
+    },
+    "43": {
+      "current": 8,
+      "max": 43,
+      "history": [],
+      "appearances": 47,
+      "avgInterval": 11.34,
+      "dueScore": 70.5
+    },
+    "44": {
+      "current": 74,
+      "max": 74,
+      "history": [],
+      "appearances": 41,
+      "avgInterval": 13,
+      "dueScore": 569.2
+    },
+    "45": {
+      "current": 41,
+      "max": 62,
+      "history": [],
+      "appearances": 38,
+      "avgInterval": 14.03,
+      "dueScore": 292.3
+    },
+    "46": {
+      "current": 24,
+      "max": 66,
+      "history": [],
+      "appearances": 32,
+      "avgInterval": 16.66,
+      "dueScore": 144.1
+    },
+    "47": {
+      "current": 0,
+      "max": 75,
+      "history": [],
+      "appearances": 41,
+      "avgInterval": 13,
+      "dueScore": 0
+    },
+    "48": {
+      "current": 1,
+      "max": 55,
+      "history": [],
+      "appearances": 36,
+      "avgInterval": 14.81,
+      "dueScore": 6.8
+    },
+    "49": {
+      "current": 1,
+      "max": 70,
+      "history": [],
+      "appearances": 31,
+      "avgInterval": 17.19,
+      "dueScore": 5.8
+    },
+    "50": {
+      "current": 82,
+      "max": 82,
+      "history": [],
+      "appearances": 33,
+      "avgInterval": 16.15,
+      "dueScore": 507.7
+    },
+    "51": {
+      "current": 15,
+      "max": 34,
+      "history": [],
+      "appearances": 39,
+      "avgInterval": 13.67,
+      "dueScore": 109.8
+    },
+    "52": {
+      "current": 3,
+      "max": 53,
+      "history": [],
+      "appearances": 46,
+      "avgInterval": 11.59,
+      "dueScore": 25.9
+    },
+    "53": {
+      "current": 31,
+      "max": 31,
+      "history": [],
+      "appearances": 46,
+      "avgInterval": 11.59,
+      "dueScore": 267.5
+    },
+    "54": {
+      "current": 62,
+      "max": 62,
+      "history": [],
+      "appearances": 35,
+      "avgInterval": 15.23,
+      "dueScore": 407.1
+    },
+    "55": {
+      "current": 31,
+      "max": 85,
+      "history": [],
+      "appearances": 30,
+      "avgInterval": 17.77,
+      "dueScore": 174.5
+    },
+    "56": {
+      "current": 6,
+      "max": 82,
+      "history": [],
+      "appearances": 27,
+      "avgInterval": 19.74,
+      "dueScore": 30.4
+    },
+    "57": {
+      "current": 36,
+      "max": 53,
+      "history": [],
+      "appearances": 35,
+      "avgInterval": 15.23,
+      "dueScore": 236.4
+    },
+    "58": {
+      "current": 6,
+      "max": 48,
+      "history": [],
+      "appearances": 46,
+      "avgInterval": 11.59,
+      "dueScore": 51.8
     },
     "59": {
-      "current": 40,
+      "current": 41,
       "max": 73,
       "history": [],
       "appearances": 35,
-      "avgInterval": 15.2,
-      "dueScore": 263.2
+      "avgInterval": 15.23,
+      "dueScore": 269.2
     },
     "60": {
-      "current": 7,
+      "current": 8,
       "max": 46,
       "history": [],
       "appearances": 40,
-      "avgInterval": 13.3,
-      "dueScore": 52.6
+      "avgInterval": 13.32,
+      "dueScore": 60
     },
     "61": {
-      "current": 28,
+      "current": 29,
       "max": 56,
       "history": [],
       "appearances": 39,
-      "avgInterval": 13.64,
-      "dueScore": 205.3
+      "avgInterval": 13.67,
+      "dueScore": 212.2
     },
     "62": {
-      "current": 56,
+      "current": 57,
       "max": 62,
       "history": [],
       "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 431.6
+      "avgInterval": 13,
+      "dueScore": 438.5
     },
     "63": {
-      "current": 21,
+      "current": 22,
       "max": 58,
       "history": [],
       "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 161.8
+      "avgInterval": 13,
+      "dueScore": 169.2
     },
     "64": {
-      "current": 2,
+      "current": 3,
       "max": 47,
       "history": [],
       "appearances": 50,
-      "avgInterval": 10.64,
-      "dueScore": 18.8
+      "avgInterval": 10.66,
+      "dueScore": 28.1
     },
     "65": {
-      "current": 19,
+      "current": 20,
       "max": 68,
       "history": [],
       "appearances": 28,
-      "avgInterval": 19,
-      "dueScore": 100
+      "avgInterval": 19.04,
+      "dueScore": 105.1
     },
     "66": {
-      "current": 2,
+      "current": 3,
       "max": 60,
       "history": [],
       "appearances": 45,
-      "avgInterval": 11.82,
-      "dueScore": 16.9
+      "avgInterval": 11.84,
+      "dueScore": 25.3
     },
     "67": {
-      "current": 91,
-      "max": 91,
+      "current": 92,
+      "max": 92,
       "history": [],
       "appearances": 37,
-      "avgInterval": 14.38,
-      "dueScore": 632.9
+      "avgInterval": 14.41,
+      "dueScore": 638.6
     },
     "68": {
-      "current": 23,
+      "current": 24,
       "max": 67,
       "history": [],
       "appearances": 37,
-      "avgInterval": 14.38,
-      "dueScore": 160
+      "avgInterval": 14.41,
+      "dueScore": 166.6
     },
     "69": {
-      "current": 63,
-      "max": 63,
+      "current": 64,
+      "max": 64,
       "history": [],
       "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 485.5
+      "avgInterval": 13,
+      "dueScore": 492.3
     }
   },
   "ranking": [
     {
       "num": 12,
-      "current": 82,
-      "max": 82,
+      "current": 83,
+      "max": 83,
       "history": [],
       "appearances": 42,
-      "avgInterval": 12.67,
-      "dueScore": 647.4
+      "avgInterval": 12.69,
+      "dueScore": 654
     },
     {
       "num": 67,
-      "current": 91,
-      "max": 91,
+      "current": 92,
+      "max": 92,
       "history": [],
       "appearances": 37,
-      "avgInterval": 14.38,
-      "dueScore": 632.9
-    },
-    {
-      "num": 47,
-      "current": 75,
-      "max": 75,
-      "history": [],
-      "appearances": 40,
-      "avgInterval": 13.3,
-      "dueScore": 563.9
+      "avgInterval": 14.41,
+      "dueScore": 638.6
     },
     {
       "num": 44,
-      "current": 73,
-      "max": 73,
+      "current": 74,
+      "max": 74,
       "history": [],
       "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 562.6
+      "avgInterval": 13,
+      "dueScore": 569.2
     },
     {
       "num": 50,
-      "current": 81,
-      "max": 81,
+      "current": 82,
+      "max": 82,
       "history": [],
       "appearances": 33,
-      "avgInterval": 16.12,
-      "dueScore": 502.4
+      "avgInterval": 16.15,
+      "dueScore": 507.7
     },
     {
       "num": 69,
-      "current": 63,
-      "max": 63,
+      "current": 64,
+      "max": 64,
       "history": [],
       "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 485.5
+      "avgInterval": 13,
+      "dueScore": 492.3
     },
     {
       "num": 1,
-      "current": 69,
-      "max": 69,
+      "current": 70,
+      "max": 70,
       "history": [],
       "appearances": 37,
-      "avgInterval": 14.38,
-      "dueScore": 479.9
+      "avgInterval": 14.41,
+      "dueScore": 485.9
     },
     {
       "num": 17,
-      "current": 86,
-      "max": 86,
+      "current": 87,
+      "max": 87,
       "history": [],
       "appearances": 29,
-      "avgInterval": 18.34,
-      "dueScore": 468.8
+      "avgInterval": 18.38,
+      "dueScore": 473.4
     },
     {
       "num": 7,
-      "current": 77,
+      "current": 78,
       "max": 79,
       "history": [],
       "appearances": 32,
-      "avgInterval": 16.63,
-      "dueScore": 463.2
+      "avgInterval": 16.66,
+      "dueScore": 468.3
     },
     {
       "num": 32,
-      "current": 72,
-      "max": 72,
+      "current": 73,
+      "max": 73,
       "history": [],
       "appearances": 34,
-      "avgInterval": 15.65,
-      "dueScore": 460.2
+      "avgInterval": 15.68,
+      "dueScore": 465.7
     },
     {
       "num": 62,
-      "current": 56,
+      "current": 57,
       "max": 62,
       "history": [],
       "appearances": 41,
-      "avgInterval": 12.98,
-      "dueScore": 431.6
+      "avgInterval": 13,
+      "dueScore": 438.5
     },
     {
       "num": 4,
-      "current": 47,
-      "max": 47,
+      "current": 48,
+      "max": 48,
       "history": [],
       "appearances": 47,
-      "avgInterval": 11.32,
-      "dueScore": 415.2
+      "avgInterval": 11.34,
+      "dueScore": 423.3
     },
     {
       "num": 54,
-      "current": 61,
-      "max": 61,
+      "current": 62,
+      "max": 62,
       "history": [],
       "appearances": 35,
-      "avgInterval": 15.2,
-      "dueScore": 401.3
+      "avgInterval": 15.23,
+      "dueScore": 407.1
     },
     {
       "num": 38,
-      "current": 51,
+      "current": 52,
       "max": 59,
       "history": [],
       "appearances": 36,
-      "avgInterval": 14.78,
-      "dueScore": 345.1
+      "avgInterval": 14.81,
+      "dueScore": 351.2
     },
     {
       "num": 24,
-      "current": 37,
+      "current": 38,
       "max": 40,
       "history": [],
       "appearances": 49,
-      "avgInterval": 10.86,
-      "dueScore": 340.8
+      "avgInterval": 10.88,
+      "dueScore": 349.3
+    },
+    {
+      "num": 13,
+      "current": 74,
+      "max": 74,
+      "history": [],
+      "appearances": 24,
+      "avgInterval": 22.21,
+      "dueScore": 333.2
     }
   ]
 }
