@@ -1,11 +1,11 @@
 {
   "frequency": [
     {
-      "num": 14,
-      "count": 32
+      "num": 23,
+      "count": 33
     },
     {
-      "num": 23,
+      "num": 14,
       "count": 32
     },
     {
@@ -108,103 +108,103 @@
   "gaps": [
     {
       "num": 13,
-      "gap": 158
+      "gap": 159
     },
     {
       "num": 8,
-      "gap": 132
+      "gap": 133
     },
     {
       "num": 25,
-      "gap": 120
+      "gap": 121
     },
     {
       "num": 9,
-      "gap": 115
+      "gap": 116
     },
     {
       "num": 10,
-      "gap": 98
+      "gap": 99
     },
     {
       "num": 3,
-      "gap": 81
+      "gap": 82
     },
     {
       "num": 22,
-      "gap": 75
+      "gap": 76
     },
     {
       "num": 16,
-      "gap": 73
+      "gap": 74
     },
     {
       "num": 20,
-      "gap": 67
+      "gap": 68
     },
     {
       "num": 7,
-      "gap": 65
+      "gap": 66
     },
     {
       "num": 19,
-      "gap": 62
+      "gap": 63
     },
     {
       "num": 26,
-      "gap": 55
+      "gap": 56
     },
     {
       "num": 2,
-      "gap": 41
+      "gap": 42
     },
     {
       "num": 14,
-      "gap": 39
+      "gap": 40
     },
     {
       "num": 17,
-      "gap": 37
+      "gap": 38
     },
     {
       "num": 12,
-      "gap": 34
+      "gap": 35
     },
     {
       "num": 18,
-      "gap": 30
+      "gap": 31
     },
     {
       "num": 11,
-      "gap": 27
+      "gap": 28
     },
     {
       "num": 4,
-      "gap": 23
+      "gap": 24
     },
     {
       "num": 15,
-      "gap": 20
+      "gap": 21
     },
     {
       "num": 5,
-      "gap": 13
+      "gap": 14
     },
     {
       "num": 24,
-      "gap": 11
+      "gap": 12
     },
     {
       "num": 1,
-      "gap": 6
+      "gap": 7
     },
     {
       "num": 21,
-      "gap": 4
+      "gap": 5
     },
     {
       "num": 6,
-      "gap": 2
+      "gap": 3
     },
     {
       "num": 23,
