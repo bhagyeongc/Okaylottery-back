@@ -371,7 +371,7 @@
   },
   "2yr": {
     "label": "Recent 2 Years",
-    "totalDraws": 209,
+    "totalDraws": 208,
     "data": [
       {
         "num": 56,
@@ -395,14 +395,10 @@
       },
       {
         "num": 10,
-        "count": 20
-      },
-      {
-        "num": 11,
         "count": 19
       },
       {
-        "num": 17,
+        "num": 11,
         "count": 19
       },
       {
@@ -424,6 +420,10 @@
       {
         "num": 58,
         "count": 19
+      },
+      {
+        "num": 17,
+        "count": 18
       },
       {
         "num": 18,
@@ -518,10 +518,6 @@
         "count": 15
       },
       {
-        "num": 50,
-        "count": 15
-      },
-      {
         "num": 62,
         "count": 15
       },
@@ -531,6 +527,10 @@
       },
       {
         "num": 36,
+        "count": 14
+      },
+      {
+        "num": 50,
         "count": 14
       },
       {
@@ -558,10 +558,6 @@
         "count": 13
       },
       {
-        "num": 23,
-        "count": 13
-      },
-      {
         "num": 37,
         "count": 13
       },
@@ -575,6 +571,10 @@
       },
       {
         "num": 8,
+        "count": 12
+      },
+      {
+        "num": 23,
         "count": 12
       },
       {
@@ -646,11 +646,11 @@
         "count": 9
       },
       {
-        "num": 67,
-        "count": 9
+        "num": 15,
+        "count": 8
       },
       {
-        "num": 15,
+        "num": 67,
         "count": 8
       }
     ],
@@ -677,14 +677,10 @@
       },
       {
         "num": 10,
-        "count": 20
-      },
-      {
-        "num": 11,
         "count": 19
       },
       {
-        "num": 17,
+        "num": 11,
         "count": 19
       },
       {
@@ -694,16 +690,20 @@
       {
         "num": 39,
         "count": 19
+      },
+      {
+        "num": 40,
+        "count": 19
       }
     ],
     "bottom10": [
       {
-        "num": 15,
+        "num": 67,
         "count": 8
       },
       {
-        "num": 67,
-        "count": 9
+        "num": 15,
+        "count": 8
       },
       {
         "num": 53,
@@ -1111,7 +1111,7 @@
   },
   "6mo": {
     "label": "Recent 6 Months",
-    "totalDraws": 52,
+    "totalDraws": 51,
     "data": [
       {
         "num": 36,
@@ -1150,23 +1150,11 @@
         "count": 6
       },
       {
-        "num": 47,
-        "count": 6
-      },
-      {
-        "num": 50,
-        "count": 6
-      },
-      {
         "num": 51,
         "count": 6
       },
       {
         "num": 52,
-        "count": 6
-      },
-      {
-        "num": 56,
         "count": 6
       },
       {
@@ -1198,7 +1186,15 @@
         "count": 5
       },
       {
+        "num": 47,
+        "count": 5
+      },
+      {
         "num": 48,
+        "count": 5
+      },
+      {
+        "num": 50,
         "count": 5
       },
       {
@@ -1207,6 +1203,10 @@
       },
       {
         "num": 55,
+        "count": 5
+      },
+      {
+        "num": 56,
         "count": 5
       },
       {
@@ -1326,10 +1326,6 @@
         "count": 2
       },
       {
-        "num": 8,
-        "count": 2
-      },
-      {
         "num": 10,
         "count": 2
       },
@@ -1362,11 +1358,11 @@
         "count": 2
       },
       {
-        "num": 70,
-        "count": 2
+        "num": 6,
+        "count": 1
       },
       {
-        "num": 6,
+        "num": 8,
         "count": 1
       },
       {
@@ -1391,6 +1387,10 @@
       },
       {
         "num": 64,
+        "count": 1
+      },
+      {
+        "num": 70,
         "count": 1
       }
     ],
@@ -1432,11 +1432,15 @@
         "count": 6
       },
       {
-        "num": 47,
+        "num": 51,
         "count": 6
       }
     ],
     "bottom10": [
+      {
+        "num": 70,
+        "count": 1
+      },
       {
         "num": 64,
         "count": 1
@@ -1462,19 +1466,15 @@
         "count": 1
       },
       {
+        "num": 8,
+        "count": 1
+      },
+      {
         "num": 6,
         "count": 1
       },
       {
-        "num": 70,
-        "count": 2
-      },
-      {
         "num": 67,
-        "count": 2
-      },
-      {
-        "num": 57,
         "count": 2
       }
     ]
