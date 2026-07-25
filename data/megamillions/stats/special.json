@@ -5,16 +5,16 @@
       "count": 22
     },
     {
+      "num": 1,
+      "count": 20
+    },
+    {
       "num": 7,
       "count": 20
     },
     {
       "num": 18,
       "count": 20
-    },
-    {
-      "num": 1,
-      "count": 19
     },
     {
       "num": 12,
@@ -104,102 +104,102 @@
   "gaps": [
     {
       "num": 25,
-      "gap": 135
+      "gap": 136
     },
     {
       "num": 11,
-      "gap": 102
+      "gap": 103
     },
     {
       "num": 18,
-      "gap": 61
+      "gap": 62
     },
     {
       "num": 5,
-      "gap": 50
+      "gap": 51
     },
     {
       "num": 13,
-      "gap": 49
+      "gap": 50
     },
     {
       "num": 21,
-      "gap": 48
+      "gap": 49
     },
     {
       "num": 19,
-      "gap": 47
-    },
-    {
-      "num": 1,
-      "gap": 45
+      "gap": 48
     },
     {
       "num": 9,
-      "gap": 37
+      "gap": 38
     },
     {
       "num": 4,
-      "gap": 35
+      "gap": 36
     },
     {
       "num": 15,
-      "gap": 24
+      "gap": 25
     },
     {
       "num": 24,
-      "gap": 23
+      "gap": 24
     },
     {
       "num": 17,
-      "gap": 20
+      "gap": 21
     },
     {
       "num": 8,
-      "gap": 17
+      "gap": 18
     },
     {
       "num": 7,
-      "gap": 15
+      "gap": 16
     },
     {
       "num": 2,
-      "gap": 13
+      "gap": 14
     },
     {
       "num": 3,
-      "gap": 11
+      "gap": 12
     },
     {
       "num": 20,
-      "gap": 8
+      "gap": 9
     },
     {
       "num": 6,
-      "gap": 7
+      "gap": 8
     },
     {
       "num": 16,
-      "gap": 5
+      "gap": 6
     },
     {
       "num": 12,
-      "gap": 4
+      "gap": 5
     },
     {
       "num": 23,
-      "gap": 3
+      "gap": 4
     },
     {
       "num": 22,
-      "gap": 2
+      "gap": 3
     },
     {
       "num": 14,
-      "gap": 1
+      "gap": 2
     },
     {
       "num": 10,
+      "gap": 1
+    },
+    {
+      "num": 1,
       "gap": 0
     }
   ]
