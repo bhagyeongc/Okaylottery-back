@@ -1,18 +1,18 @@
 {
   "game": "powerball",
-  "drawDate": "2026-10-26",
+  "drawDate": "2026-10-27",
   "numbers": [
-    4,
-    5,
-    15,
-    19,
-    55
+    18,
+    26,
+    49,
+    50,
+    54
   ],
-  "powerBall": 19,
-  "powerPlay": 2,
+  "powerBall": 1,
+  "powerPlay": 3,
   "jackpot": {
-    "estimated": 665000000,
-    "cash": 285200000,
+    "estimated": 691000000,
+    "cash": 296400000,
     "winners": 0
   },
   "prizeTiers": [
@@ -37,7 +37,7 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 0,
+        "base": 2,
         "multiplier": 0
       },
       "prize": {
@@ -52,12 +52,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 25,
-        "multiplier": 5
+        "base": 14,
+        "multiplier": 3
       },
       "prize": {
         "base": 50000,
-        "multiplier": 100000
+        "multiplier": 150000
       },
       "odds": 913129
     },
@@ -67,12 +67,12 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 644,
-        "multiplier": 227
+        "base": 367,
+        "multiplier": 95
       },
       "prize": {
         "base": 100,
-        "multiplier": 200
+        "multiplier": 300
       },
       "odds": 36525
     },
@@ -82,12 +82,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 1572,
-        "multiplier": 465
+        "base": 810,
+        "multiplier": 231
       },
       "prize": {
         "base": 100,
-        "multiplier": 200
+        "multiplier": 300
       },
       "odds": 14494
     },
@@ -97,12 +97,12 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 39927,
-        "multiplier": 12009
+        "base": 21169,
+        "multiplier": 5933
       },
       "prize": {
         "base": 7,
-        "multiplier": 14
+        "multiplier": 21
       },
       "odds": 579
     },
@@ -112,12 +112,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 29808,
-        "multiplier": 8606
+        "base": 16897,
+        "multiplier": 4629
       },
       "prize": {
         "base": 7,
-        "multiplier": 14
+        "multiplier": 21
       },
       "odds": 701
     },
@@ -127,12 +127,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 212375,
-        "multiplier": 59804
+        "base": 131453,
+        "multiplier": 37864
       },
       "prize": {
         "base": 4,
-        "multiplier": 8
+        "multiplier": 12
       },
       "odds": 92
     },
@@ -142,12 +142,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 489978,
-        "multiplier": 134615
+        "base": 322390,
+        "multiplier": 92685
       },
       "prize": {
         "base": 4,
-        "multiplier": 8
+        "multiplier": 12
       },
       "odds": 38
     }
@@ -166,10 +166,10 @@
     {
       "title": "Match 5",
       "description": "$1 Million Winners",
-      "locations": "None"
+      "locations": "FL, GA"
     }
   ],
-  "videoCode": "d0hrm-oyoi4",
+  "videoCode": "QeWZTblRZdc",
   "source": "powerball.com",
-  "fetchedAt": "2026-10-26T14:04:54.868Z"
+  "fetchedAt": "2026-10-27T13:05:39.442Z"
 }
