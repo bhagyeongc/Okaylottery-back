@@ -1,19 +1,19 @@
 {
   "game": "megamillions",
-  "drawDate": "2026-10-30",
+  "drawDate": "2026-11-03",
   "numbers": [
-    5,
-    10,
-    38,
-    49,
-    68
+    4,
+    24,
+    31,
+    62,
+    70
   ],
-  "megaBall": 17,
+  "megaBall": 3,
   "megaplier": -1,
   "jackpot": {
-    "estimated": 463000000,
-    "cash": 194900000,
-    "strValue": "$463 Million"
+    "estimated": 482000000,
+    "cash": 203600000,
+    "strValue": "$482 Million"
   },
   "prizeTiers": [
     {
@@ -31,43 +31,43 @@
     {
       "prize": "$10,000",
       "winners": 0,
-      "multiplierWinners": 3,
+      "multiplierWinners": 4,
       "tier": 2
     },
     {
       "prize": "$599",
       "winners": 0,
-      "multiplierWinners": 128,
+      "multiplierWinners": 149,
       "tier": 3
     },
     {
       "prize": "$200",
       "winners": 0,
-      "multiplierWinners": 417,
+      "multiplierWinners": 445,
       "tier": 4
     },
     {
       "prize": "$10",
       "winners": 0,
-      "multiplierWinners": 9917,
+      "multiplierWinners": 10139,
       "tier": 5
     },
     {
       "prize": "$10",
       "winners": 0,
-      "multiplierWinners": 9439,
+      "multiplierWinners": 10000,
       "tier": 6
     },
     {
       "prize": "$4",
       "winners": 0,
-      "multiplierWinners": 72602,
+      "multiplierWinners": 80657,
       "tier": 7
     },
     {
       "prize": "$2",
       "winners": 0,
-      "multiplierWinners": 173668,
+      "multiplierWinners": 198362,
       "tier": 8
     }
   ],
@@ -87,43 +87,43 @@
     {
       "prize": "$10,000",
       "winners": 0,
-      "multiplierWinners": 3,
+      "multiplierWinners": 4,
       "tier": 2
     },
     {
       "prize": "$599",
       "winners": 0,
-      "multiplierWinners": 128,
+      "multiplierWinners": 149,
       "tier": 3
     },
     {
       "prize": "$200",
       "winners": 0,
-      "multiplierWinners": 417,
+      "multiplierWinners": 445,
       "tier": 4
     },
     {
       "prize": "$10",
       "winners": 0,
-      "multiplierWinners": 9917,
+      "multiplierWinners": 10139,
       "tier": 5
     },
     {
       "prize": "$10",
       "winners": 0,
-      "multiplierWinners": 9439,
+      "multiplierWinners": 10000,
       "tier": 6
     },
     {
       "prize": "$4",
       "winners": 0,
-      "multiplierWinners": 72602,
+      "multiplierWinners": 80657,
       "tier": 7
     },
     {
       "prize": "$2",
       "winners": 0,
-      "multiplierWinners": 173668,
+      "multiplierWinners": 198362,
       "tier": 8
     }
   ],
@@ -139,7 +139,7 @@
       "locations": ""
     }
   ],
-  "videoCode": "lRzIvH-ITLA",
+  "videoCode": "BI5T4cDsnto",
   "source": "megamillions.com",
-  "fetchedAt": "2026-10-31T13:14:26.267Z"
+  "fetchedAt": "2026-11-04T15:00:07.740Z"
 }
