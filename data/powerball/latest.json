@@ -1,6 +1,6 @@
 {
   "game": "powerball",
-  "drawDate": "2026-11-08",
+  "drawDate": "2026-11-09",
   "numbers": [
     3,
     36,
@@ -171,5 +171,5 @@
   ],
   "videoCode": "uWES7boYQ_4",
   "source": "powerball.com",
-  "fetchedAt": "2026-11-08T14:12:05.876Z"
+  "fetchedAt": "2026-11-09T17:20:54.346Z"
 }
