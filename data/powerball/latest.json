@@ -1,18 +1,18 @@
 {
   "game": "powerball",
-  "drawDate": "2026-11-10",
+  "drawDate": "2026-11-11",
   "numbers": [
-    3,
-    36,
-    37,
-    56,
-    61
+    13,
+    34,
+    41,
+    45,
+    48
   ],
-  "powerBall": 21,
+  "powerBall": 25,
   "powerPlay": 2,
   "jackpot": {
-    "estimated": 20000000,
-    "cash": 8600000,
+    "estimated": 32000000,
+    "cash": 13500000,
     "winners": 0
   },
   "prizeTiers": [
@@ -52,8 +52,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 18,
-        "multiplier": 1
+        "base": 5,
+        "multiplier": 0
       },
       "prize": {
         "base": 50000,
@@ -67,8 +67,8 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 218,
-        "multiplier": 69
+        "base": 118,
+        "multiplier": 49
       },
       "prize": {
         "base": 100,
@@ -82,8 +82,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 584,
-        "multiplier": 166
+        "base": 314,
+        "multiplier": 108
       },
       "prize": {
         "base": 100,
@@ -97,8 +97,8 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 13845,
-        "multiplier": 4615
+        "base": 8508,
+        "multiplier": 2953
       },
       "prize": {
         "base": 7,
@@ -112,8 +112,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 12096,
-        "multiplier": 4245
+        "base": 6552,
+        "multiplier": 2272
       },
       "prize": {
         "base": 7,
@@ -127,8 +127,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 97060,
-        "multiplier": 33198
+        "base": 52273,
+        "multiplier": 18558
       },
       "prize": {
         "base": 4,
@@ -142,8 +142,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 229337,
-        "multiplier": 78558
+        "base": 133324,
+        "multiplier": 48643
       },
       "prize": {
         "base": 4,
@@ -169,7 +169,7 @@
       "locations": "None"
     }
   ],
-  "videoCode": "uWES7boYQ_4",
+  "videoCode": "U2s4Ewdx4jQ",
   "source": "powerball.com",
-  "fetchedAt": "2026-11-10T01:56:53.653Z"
+  "fetchedAt": "2026-11-11T15:00:42.762Z"
 }
