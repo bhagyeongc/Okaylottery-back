@@ -1,18 +1,18 @@
 {
   "game": "powerball",
-  "drawDate": "2026-11-12",
+  "drawDate": "2026-11-13",
   "numbers": [
-    13,
-    34,
-    41,
+    8,
+    42,
     45,
-    48
+    51,
+    57
   ],
-  "powerBall": 25,
-  "powerPlay": 2,
+  "powerBall": 17,
+  "powerPlay": 3,
   "jackpot": {
-    "estimated": 32000000,
-    "cash": 13500000,
+    "estimated": 45000000,
+    "cash": 19400000,
     "winners": 0
   },
   "prizeTiers": [
@@ -52,12 +52,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 5,
-        "multiplier": 0
+        "base": 2,
+        "multiplier": 1
       },
       "prize": {
         "base": 50000,
-        "multiplier": 100000
+        "multiplier": 150000
       },
       "odds": 913129
     },
@@ -67,12 +67,12 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 118,
-        "multiplier": 49
+        "base": 152,
+        "multiplier": 54
       },
       "prize": {
         "base": 100,
-        "multiplier": 200
+        "multiplier": 300
       },
       "odds": 36525
     },
@@ -82,12 +82,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 314,
-        "multiplier": 108
+        "base": 391,
+        "multiplier": 144
       },
       "prize": {
         "base": 100,
-        "multiplier": 200
+        "multiplier": 300
       },
       "odds": 14494
     },
@@ -97,12 +97,12 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 8508,
-        "multiplier": 2953
+        "base": 9603,
+        "multiplier": 3398
       },
       "prize": {
         "base": 7,
-        "multiplier": 14
+        "multiplier": 21
       },
       "odds": 579
     },
@@ -112,12 +112,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 6552,
-        "multiplier": 2272
+        "base": 8223,
+        "multiplier": 2936
       },
       "prize": {
         "base": 7,
-        "multiplier": 14
+        "multiplier": 21
       },
       "odds": 701
     },
@@ -127,12 +127,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 52273,
-        "multiplier": 18558
+        "base": 66477,
+        "multiplier": 24088
       },
       "prize": {
         "base": 4,
-        "multiplier": 8
+        "multiplier": 12
       },
       "odds": 92
     },
@@ -142,12 +142,12 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 133324,
-        "multiplier": 48643
+        "base": 166596,
+        "multiplier": 59255
       },
       "prize": {
         "base": 4,
-        "multiplier": 8
+        "multiplier": 12
       },
       "odds": 38
     }
@@ -169,7 +169,7 @@
       "locations": "None"
     }
   ],
-  "videoCode": "U2s4Ewdx4jQ",
+  "videoCode": "RX0sLXFxuDw",
   "source": "powerball.com",
-  "fetchedAt": "2026-11-12T01:26:03.404Z"
+  "fetchedAt": "2026-11-13T00:03:14.710Z"
 }
