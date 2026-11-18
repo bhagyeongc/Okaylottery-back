@@ -1,18 +1,18 @@
 {
   "game": "powerball",
-  "drawDate": "2026-11-17",
+  "drawDate": "2026-11-18",
   "numbers": [
-    9,
-    44,
-    49,
-    51,
-    68
+    17,
+    35,
+    48,
+    60,
+    69
   ],
-  "powerBall": 4,
+  "powerBall": 17,
   "powerPlay": 2,
   "jackpot": {
-    "estimated": 66000000,
-    "cash": 27500000,
+    "estimated": 79000000,
+    "cash": 32799999.999999996,
     "winners": 0
   },
   "prizeTiers": [
@@ -52,8 +52,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 12,
-        "multiplier": 6
+        "base": 8,
+        "multiplier": 2
       },
       "prize": {
         "base": 50000,
@@ -67,8 +67,8 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 183,
-        "multiplier": 53
+        "base": 141,
+        "multiplier": 51
       },
       "prize": {
         "base": 100,
@@ -82,8 +82,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 543,
-        "multiplier": 190
+        "base": 384,
+        "multiplier": 113
       },
       "prize": {
         "base": 100,
@@ -97,8 +97,8 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 13718,
-        "multiplier": 4600
+        "base": 8876,
+        "multiplier": 3035
       },
       "prize": {
         "base": 7,
@@ -112,8 +112,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 11838,
-        "multiplier": 4095
+        "base": 7546,
+        "multiplier": 2720
       },
       "prize": {
         "base": 7,
@@ -127,8 +127,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 98306,
-        "multiplier": 32818
+        "base": 60958,
+        "multiplier": 21530
       },
       "prize": {
         "base": 4,
@@ -142,8 +142,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 247623,
-        "multiplier": 84512
+        "base": 152649,
+        "multiplier": 53697
       },
       "prize": {
         "base": 4,
@@ -169,7 +169,7 @@
       "locations": "None"
     }
   ],
-  "videoCode": "qwWzpNWnKTA",
+  "videoCode": "ysWr3sge1GU",
   "source": "powerball.com",
-  "fetchedAt": "2026-11-17T02:23:49.784Z"
+  "fetchedAt": "2026-11-18T01:33:03.664Z"
 }
