@@ -1,19 +1,19 @@
 {
   "game": "powerball",
-  "drawDate": "2026-11-21",
+  "drawDate": "2026-11-22",
   "numbers": [
-    18,
-    31,
-    43,
-    51,
-    62
+    5,
+    29,
+    33,
+    36,
+    45
   ],
-  "powerBall": 12,
+  "powerBall": 22,
   "powerPlay": 2,
   "jackpot": {
-    "estimated": 93000000,
-    "cash": 38900000,
-    "winners": 0
+    "estimated": 114000000,
+    "cash": 47900000,
+    "winners": 1
   },
   "prizeTiers": [
     {
@@ -22,7 +22,7 @@
       "matchSpecial": true,
       "isJackpot": true,
       "winners": {
-        "base": 0,
+        "base": 1,
         "multiplier": 0
       },
       "prize": {
@@ -52,8 +52,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 7,
-        "multiplier": 0
+        "base": 8,
+        "multiplier": 2
       },
       "prize": {
         "base": 50000,
@@ -67,8 +67,8 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 205,
-        "multiplier": 64
+        "base": 270,
+        "multiplier": 73
       },
       "prize": {
         "base": 100,
@@ -82,8 +82,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 485,
-        "multiplier": 159
+        "base": 681,
+        "multiplier": 220
       },
       "prize": {
         "base": 100,
@@ -97,8 +97,8 @@
       "matchSpecial": false,
       "isJackpot": false,
       "winners": {
-        "base": 10173,
-        "multiplier": 3612
+        "base": 17440,
+        "multiplier": 5472
       },
       "prize": {
         "base": 7,
@@ -112,8 +112,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 9028,
-        "multiplier": 3138
+        "base": 13686,
+        "multiplier": 4376
       },
       "prize": {
         "base": 7,
@@ -127,8 +127,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 73630,
-        "multiplier": 25896
+        "base": 105294,
+        "multiplier": 33990
       },
       "prize": {
         "base": 4,
@@ -142,8 +142,8 @@
       "matchSpecial": true,
       "isJackpot": false,
       "winners": {
-        "base": 182056,
-        "multiplier": 64598
+        "base": 245570,
+        "multiplier": 79417
       },
       "prize": {
         "base": 4,
@@ -156,7 +156,7 @@
     {
       "title": "Powerball",
       "description": "JACKPOT WINNERS",
-      "locations": "None"
+      "locations": "FL"
     },
     {
       "title": "Match 5 + Power Play",
@@ -169,7 +169,7 @@
       "locations": "None"
     }
   ],
-  "videoCode": "9V05kfKwI-c",
+  "videoCode": "GIWQm1JtqT8",
   "source": "powerball.com",
-  "fetchedAt": "2026-11-21T00:42:51.439Z"
+  "fetchedAt": "2026-11-22T15:10:47.467Z"
 }
